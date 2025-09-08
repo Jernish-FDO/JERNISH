@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats:
 ![Jernish's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jernish-FDO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=jernish-fdo&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Jernish-FDO&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jernish-fdo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
