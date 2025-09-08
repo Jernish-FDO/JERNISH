@@ -35,17 +35,17 @@
 
 ## 🎯 Current Focus Areas:
 - 🏠 **Home Automation Systems**
-- 📡 **IoT Sensor Networks**
+- 📡 **IoT Sensor Networks**  
 - 🤖 **Smart Device Development**
 - 📊 **Data Collection & Analysis**
 - 🔧 **Embedded System Programming**
 
 ## 📊 GitHub Stats:
-![Jernish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jernish-FDO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![Jernish's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jernish-FDO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jernish-fdo&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=jernish-fdo&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jernish-fdo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jernish-fdo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💡 Featured Projects:
 *Coming soon! Working on exciting IoT automation projects...*
@@ -60,13 +60,10 @@
 ## 📈 Daily Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repositories:
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=jernish-fdo&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 👀 Profile Views:
 ![Profile Views](https://visitcount.itsvg.in/api?id=jernish-fdo&icon=2&color=6)
 
 ---
 ### 💭 "Transforming ideas into smart solutions, one IoT project at a time!"
 
-**💫 Created with passion for IoT and automation | [GPRM](https://gprm.itsvg.in)**
+**💫 Created with passion for IoT and automation**
