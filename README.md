@@ -64,5 +64,3 @@
 
 ---
 ### 💭 "Transforming ideas into smart solutions, one IoT project at a time!"
-
-**💫 Created with passion for IoT and automation | [GPRM](https://gprm.itsvg.in)**
