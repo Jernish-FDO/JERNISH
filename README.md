@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Hi+I'm+Amala+(Jernish)!;Full-Stack+Developer;Creative+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
 </h1>
+
 ## 🏠 About Me:
 - 📍 Based in **Fathimapuram, Tamil Nadu, India**
 - 🎓 **Diploma in Electronics and Communication Engineering** graduate
